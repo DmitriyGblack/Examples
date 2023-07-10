@@ -1,0 +1,15 @@
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\bin\Debug\net6.0\Example003_Sun_Rnd.exe
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\bin\Debug\net6.0\Example003_Sun_Rnd.deps.json
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\bin\Debug\net6.0\Example003_Sun_Rnd.runtimeconfig.json
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\bin\Debug\net6.0\Example003_Sun_Rnd.dll
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\bin\Debug\net6.0\Example003_Sun_Rnd.pdb
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.csproj.AssemblyReference.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.AssemblyInfoInputs.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.AssemblyInfo.cs
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.csproj.CoreCompileInputs.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.dll
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\refint\Example003_Sun_Rnd.dll
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.pdb
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\Example003_Sun_Rnd.genruntimeconfig.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example003_Sun_Rnd\obj\Debug\net6.0\ref\Example003_Sun_Rnd.dll

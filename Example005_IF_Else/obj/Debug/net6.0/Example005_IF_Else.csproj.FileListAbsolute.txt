@@ -1,0 +1,15 @@
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.csproj.AssemblyReference.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.AssemblyInfoInputs.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.AssemblyInfo.cs
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.csproj.CoreCompileInputs.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\bin\Debug\net6.0\Example005_IF_Else.exe
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\bin\Debug\net6.0\Example005_IF_Else.deps.json
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\bin\Debug\net6.0\Example005_IF_Else.runtimeconfig.json
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\bin\Debug\net6.0\Example005_IF_Else.dll
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\bin\Debug\net6.0\Example005_IF_Else.pdb
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.dll
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\refint\Example005_IF_Else.dll
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.pdb
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\Example005_IF_Else.genruntimeconfig.cache
+C:\Users\MKNSK\Desktop\GitHub\Examples002\Example005_IF_Else\obj\Debug\net6.0\ref\Example005_IF_Else.dll
